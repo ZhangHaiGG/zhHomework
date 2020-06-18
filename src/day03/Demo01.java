@@ -1,4 +1,4 @@
-package day01;
+package day03;
 //等腰三角形
 public class Demo01 {
     public static void main(String[] args) {

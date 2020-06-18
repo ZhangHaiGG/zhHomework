@@ -1,4 +1,4 @@
-package day01;
+package day03;
 //求100以内的质数和
 public class Demo02 {
     public static void main(String[] args) {
